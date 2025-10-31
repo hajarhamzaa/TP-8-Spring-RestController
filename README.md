@@ -95,3 +95,12 @@ curl -X POST "http://localhost:8082/api/banque/comptes" \
 ## Licence
 
 Ce projet est sous licence MIT.
+
+<img width="788" height="395" alt="image" src="https://github.com/user-attachments/assets/5f873bbe-7c55-4625-92de-0765051d5718" />
+
+<img width="911" height="435" alt="image" src="https://github.com/user-attachments/assets/f1896ae8-083f-4b84-81df-2980a41cb1a1" />
+
+<img width="936" height="886" alt="image" src="https://github.com/user-attachments/assets/23fb58d7-80fb-4ddd-ad24-9adca99ec318" />
+
+
+
